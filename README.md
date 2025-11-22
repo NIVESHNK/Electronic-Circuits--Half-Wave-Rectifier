@@ -59,3 +59,5 @@ Halfwave Rectifier with filter:
 
 
 ## RESULT:
+<img width="1181" height="424" alt="image" src="https://github.com/user-attachments/assets/3f330118-8b94-425d-a708-a25e14d4b7fd" />
+
